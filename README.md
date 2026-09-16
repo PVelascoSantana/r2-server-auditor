@@ -1,1 +1,1 @@
-# r2-server-auditor
+# R2: portable device for auditing and diagnosis of Linux server
